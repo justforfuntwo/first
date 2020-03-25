@@ -1,0 +1,1 @@
+ps aux >>/tmp/xorg.2.log
